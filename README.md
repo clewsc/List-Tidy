@@ -7,7 +7,7 @@ This tool allows upload and local processing (no data leaves device) of SCP CSV 
  
  (2) In browser print function
  
- (3) Download to excel (note poorly formats and less preferred as requires some adjustments in Excel to make tidy printable version
+ (3) Download to excel (note poorly formats and less preferred as requires some adjustments in Excel to make a printable version)
 
  *Requires Chrome to accurately render print version*
 
